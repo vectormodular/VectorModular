@@ -1,7 +1,7 @@
 {
   "slug": "VectorModular",
   "name": "Vector Modular",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "license": "GPL-3.0-or-later",
   "brand": "Vector Modular",
   "author": "Steve Brenner",
@@ -11,7 +11,7 @@
   "manualUrl": "https://vectormodular.com/",
   "sourceUrl": "https://github.com/vectormodular/VectorModular",
   "donateUrl": "https://vectormodular.com/contribute/",
-  "changelogUrl": "https://github.com/vectormodular/VectorModular",
+  "changelogUrl": "https://github.com/vectormodular/VectorModular/blob/main/CHANGELOG.md",
   "modules": [
     {
       "slug": "baseTrigs",
