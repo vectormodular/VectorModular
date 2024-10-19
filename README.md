@@ -11,11 +11,12 @@ Questions? Bugs? Want to get updates?
 
 Great!  
 
-Please email me at [support@vectormodular.com](mailto:support@vectormodular.com), and I'll try to respond soon.
+Please email me at [support@vectormodular.com](mailto:support@vectormodular.com) and I'll try to respond soon.
 
 
 ## Donate
-*Please consider supporting Vector Modular in developing innovative modules for the modular community—[donate here](https://vectormodular.com/contribute/).* **Thank you!**
+Please consider supporting Vector Modular in developing innovative modules for the modular community—[donate here](https://vectormodular.com/contribute/).  
+**Thank you!**
 
 
 ## Modules
@@ -24,7 +25,7 @@ Please email me at [support@vectormodular.com](mailto:support@vectormodular.com)
 
 #### Overview
 
-The baseOsc is a versatile oscillator for VCV Rack, designed to serve as the core of your sound design setup.
+The **baseOsc** is a versatile oscillator for VCV Rack, designed to serve as the core of your sound design setup.
 
 Drawing on robust code from the Mutable Instruments' Braids oscillator, it offers a range of audio output shapes including triangle, sawtooth, pulse (with PWM), sine, and square sub-oscillator.
 
@@ -72,13 +73,14 @@ The baseOsc is ready to be an essential building block in your patches for shapi
     - Currently quantized note indicated in these LEDs
 - Bit reduction setting
   - Choose between 1-bit to 16-bit oscillator generation resolution.
+***  
 
 ### **soloMixer**
 ![soloMixer](https://vectormodular.com/assets/images/solomixer.png)
 
 #### Overview
 
-The soloMixer is a versatile mixer for VCV Rack, designed to give you precise control over three input channels—Red, Green, and Blue.  
+The **soloMixer** is a versatile mixer for VCV Rack, designed to give you precise control over three input channels—Red, Green, and Blue.  
 
 Each channel features a logarithmic level control and is normalled to the channel below it. If there isn’t a cable plugged into a channel's input, it receives the signal from the channel above, prior to any attenuation. The top channel, R, has a +5V signal by default, which allows the module to be used as a CV offset.  
 
@@ -102,13 +104,14 @@ The individual outputs on each channel also follow the active solo configuration
 - +5V on the top channel (Channel R) when nothing is plugged in, allowing for CV offset output. This cascades via the normalization configuration.
 - Solo functionality for R, G, and B channels; multiple channels can be active
 - Two solo states (1 and 2) toggleable via a button next to the mix knob, with corresponding LEDs for each channel's solo state
+***
 
 ### **baseTrig**
 ![baseTrig](https://vectormodular.com/assets/images/basetrig.png)
 
 #### Overview
 
-The baseTrig is a powerful clock and trigger generator for VCV Rack, designed to enhance your rhythmic creativity.
+The **baseTrig** is a powerful clock and trigger generator for VCV Rack, designed to enhance your rhythmic creativity.
 
 With an internal clock generator and the ability to sync to external clock signals, baseTrig offers flexible tempo control for any setup.
 
@@ -141,13 +144,14 @@ This module is ideal for a variety of applications, from programming complex dru
   - 6/4
   - 7/4
 - Reset via button, trig or gate input
+***
 
 ### **3i/9o**
 ![3i/9o](https://vectormodular.com/assets/images/3i9o.png)
 
 #### Overview
 
-The 3i/9o is a multiple for VCV Rack that clones signals.   
+The **3i/9o** is a multiple for VCV Rack that clones signals.   
 It features three sets of inputs with normalled connections, allowing for flexible chaining based on your patch.  
 
 You can configure it for 1 input to 9 outputs, 1 input to 6 outputs and 1 input to 3 outputs, or 3 sets of 1 input to 3 outputs. 
