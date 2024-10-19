@@ -167,4 +167,4 @@ Even though it's possible to stack cables in VCV Rack, this module helps with or
 - Inputs 2 and 3 normalled to preceding outputs
 - 1 input to 9 outputs, 1 input to 6 outputs and 1 input to 3 outputs, or 3 inputs to 3 outputs
 - LED color based on the signal at the set of outputs
-- Red for negative, blue for positive, and purple for audio rate
+- Red for negative, blue for positive
