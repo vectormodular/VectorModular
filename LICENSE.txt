@@ -1,0 +1,50 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2024 Steve Brenner
+Vector Modular
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                     Preamble
+
+The GNU General Public License is a free, copyleft license for software and other kinds of works.
+
+...
+
+                     TERMS AND CONDITIONS
+
+...
+
+  0. Definitions.
+
+  This License applies to any program or other work which contains a notice placed by the author
+  or other copyright holder saying it can be distributed under the terms of this General Public License.
+  
+  ...
+
+  11. NO WARRANTY
+
+  11.1. Because the program is licensed free of charge, there is no warranty for the program,
+  to the extent permitted by applicable law. Except when otherwise stated in writing, the copyright
+  holders and/or other parties provide the program "as is" without warranty of any kind, either
+  expressed or implied, including, but not limited to, the implied warranties of merchantability
+  and fitness for a particular purpose. The entire risk as to the quality and performance of the program
+  is with you. Should the program prove defective, you assume the cost of all necessary servicing,
+  repair, or correction.
+
+  ...
+
+This license is intended to guarantee your freedom to share and change all versions of a program
+to make sure it remains free software for all its users. We encourage you to share your
+modifications.
+
+For more information about the GNU General Public License, please see <http://www.gnu.org/licenses/>.
+
+## Acknowledgments
+
+This module includes code from the following projects:
+
+- **Mutable Instruments Braids**: This module utilizes the oscillator code from Mutable Instruments, which is released under the MIT License.
+- **Audible Instruments**: Portions of code have been adapted from Audible Instruments.
+- **VCV Rack DSP Namespace and Default Component Library**.
