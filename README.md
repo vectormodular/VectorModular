@@ -15,7 +15,7 @@ Please email me at [support@vectormodular.com](mailto:support@vectormodular.com)
 
 
 ## Donate
-Please consider supporting Vector Modular in developing innovative modules for the modular community—[donate here](https://vectormodular.com/contribute/).  
+Please consider supporting Vector Modular in developing innovative modules—[donate here](https://vectormodular.com/contribute/).  
 **Thank you!**
 
 
