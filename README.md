@@ -3,7 +3,7 @@
 ![currentModules](https://vectormodular.com/assets/images/curModulesLanding.png)
 
 ## About
-Inspired by a vision for innovative modular synthesis, Vector Modular combines technical precision with dynamic creativity. The project aims to develop high-quality modules that fulfill specific roles within a modular system while also serving as valuable learning opportunities for the creator. Committed to pushing the boundaries of sound manipulation, Vector Modular encourages musicians to explore new possibilities in their as they manipulate sounds.
+Inspired by a vision for innovative modular synthesis, **Vector Modular** combines technical precision with dynamic creativity. The project aims to develop high-quality modules that fulfill specific roles within a modular system, while also serving as a learning opportunity for the creator. Committed to pushing the boundaries of sound manipulation, Vector Modular encourages musicians to explore new possibilities in their creative pursuits.
 
 
 ## Contact
