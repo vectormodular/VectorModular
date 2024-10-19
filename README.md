@@ -151,7 +151,8 @@ This module is ideal for a variety of applications, from programming complex dru
 
 #### Overview
 
-The **3i/9o** is a multiple for VCV Rack that clones signals.   
+The **3i/9o** is a multiple for VCV Rack that clones signals.  
+
 It features three sets of inputs with normalled connections, allowing for flexible chaining based on your patch.  
 
 You can configure it for 1 input to 9 outputs, 1 input to 6 outputs and 1 input to 3 outputs, or 3 sets of 1 input to 3 outputs. 
