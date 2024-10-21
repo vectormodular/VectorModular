@@ -157,7 +157,7 @@ It features three sets of inputs with normalled connections, allowing for flexib
 
 You can configure it for 1 input to 9 outputs, 1 input to 6 outputs and 1 input to 3 outputs, or 3 sets of 1 input to 3 outputs. 
 
-An LED indicates the signal polarity at the set's outputs: red for negative, blue for positive, and purple for audio rate.  
+An LED indicates the signal polarity at the set's outputs: red for negative, blue for positive.  
 
 Even though it's possible to stack cables in VCV Rack, this module helps with organization and visualization of duplicated signals.
 
